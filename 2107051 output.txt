@@ -1,0 +1,227 @@
+---- Agrani Bank Limited ----
+1) Create Account
+2) Deposit
+3) Withdraw
+4) Transfer
+5) Apply Loan
+6) Pay Loan
+7) Display All Accounts
+8) Display Account Details
+9) Display Loan Takers and Loan Status
+10) Make Loan Payment
+11) Exit
+Enter your choice: 1
+Enter account holder's name: A. K. M Samioul Islam
+Enter account number: 2107051
+Enter account type (e.g., Savings, Checking): Savings
+Enter initial balance: 500
+Account created successfully.
+
+---- Agrani Bank Limited ----
+1) Create Account
+2) Deposit
+3) Withdraw
+4) Transfer
+5) Apply Loan
+6) Pay Loan
+7) Display All Accounts
+8) Display Account Details
+9) Display Loan Takers and Loan Status
+10) Make Loan Payment
+11) Exit
+Enter your choice: 2
+Enter account number: 2107051
+Enter deposit amount: 500
+Deposit successful.
+
+---- Agrani Bank Limited ----
+1) Create Account
+2) Deposit
+3) Withdraw
+4) Transfer
+5) Apply Loan
+6) Pay Loan
+7) Display All Accounts
+8) Display Account Details
+9) Display Loan Takers and Loan Status
+10) Make Loan Payment
+11) Exit
+Enter your choice: 3
+Enter account number: 2107051
+Enter withdrawal amount: 200
+Withdrawal successful.
+
+---- Agrani Bank Limited ----
+1) Create Account
+2) Deposit
+3) Withdraw
+4) Transfer
+5) Apply Loan
+6) Pay Loan
+7) Display All Accounts
+8) Display Account Details
+9) Display Loan Takers and Loan Status
+10) Make Loan Payment
+11) Exit
+Enter your choice: 1
+Enter account holder's name: Md. Arifur Rahman
+Enter account number: 2107062
+Enter account type (e.g., Savings, Checking): Checking
+Enter initial balance: 500
+Account created successfully.
+
+---- Agrani Bank Limited ----
+1) Create Account
+2) Deposit
+3) Withdraw
+4) Transfer
+5) Apply Loan
+6) Pay Loan
+7) Display All Accounts
+8) Display Account Details
+9) Display Loan Takers and Loan Status
+10) Make Loan Payment
+11) Exit
+Enter your choice: 4
+Enter source account number: 2107051
+Enter target account number: 2107062
+Enter transfer amount: 200
+Withdrawal successful.
+Deposit successful.
+Transfer successful.
+
+---- Agrani Bank Limited ----
+1) Create Account
+2) Deposit
+3) Withdraw
+4) Transfer
+5) Apply Loan
+6) Pay Loan
+7) Display All Accounts
+8) Display Account Details
+9) Display Loan Takers and Loan Status
+10) Make Loan Payment
+11) Exit
+Enter your choice: 5
+Enter account number: 2107051
+Enter loan amount: 200
+Loan approved. Loan amount: 200
+Loan will be paid in 12 months with 5% interest each month.
+
+---- Agrani Bank Limited ----
+1) Create Account
+2) Deposit
+3) Withdraw
+4) Transfer
+5) Apply Loan
+6) Pay Loan
+7) Display All Accounts
+8) Display Account Details
+9) Display Loan Takers and Loan Status
+10) Make Loan Payment
+11) Exit
+Enter your choice: 6
+Enter account number: 2107051
+Loan payment successful. Remaining balance: 790
+
+---- Agrani Bank Limited ----
+1) Create Account
+2) Deposit
+3) Withdraw
+4) Transfer
+5) Apply Loan
+6) Pay Loan
+7) Display All Accounts
+8) Display Account Details
+9) Display Loan Takers and Loan Status
+10) Make Loan Payment
+11) Exit
+Enter your choice: 7
+---- Account List ----
+Account Holder: A. K. M Samioul Islam
+Account Number: 2107051
+Account Type: Savings
+Balance: 790
+----------------------
+Account Holder: Md. Arifur Rahman
+Account Number: 2107062
+Account Type: Checking
+Balance: 700
+----------------------
+
+---- Agrani Bank Limited ----
+1) Create Account
+2) Deposit
+3) Withdraw
+4) Transfer
+5) Apply Loan
+6) Pay Loan
+7) Display All Accounts
+8) Display Account Details
+9) Display Loan Takers and Loan Status
+10) Make Loan Payment
+11) Exit
+Enter your choice: 8
+Enter account number: 2107051
+---- Account Details ----
+Account Holder: A. K. M Samioul Islam
+Account Number: 2107051
+Account Type: Savings
+Balance: 790
+Account Number: 2107051
+Remaining Loan: 190
+Months Paid: 1/12
+-------------------------
+
+---- Agrani Bank Limited ----
+1) Create Account
+2) Deposit
+3) Withdraw
+4) Transfer
+5) Apply Loan
+6) Pay Loan
+7) Display All Accounts
+8) Display Account Details
+9) Display Loan Takers and Loan Status
+10) Make Loan Payment
+11) Exit
+Enter your choice: 9
+---- Loan Takers ----
+Name: A. K. M Samioul Islam
+Remaining Loan: 190
+Months Paid: 1/12
+----------------------
+
+---- Agrani Bank Limited ----
+1) Create Account
+2) Deposit
+3) Withdraw
+4) Transfer
+5) Apply Loan
+6) Pay Loan
+7) Display All Accounts
+8) Display Account Details
+9) Display Loan Takers and Loan Status
+10) Make Loan Payment
+11) Exit
+Enter your choice: 10
+Enter account number: 2107051
+Loan payment successful.
+
+---- Agrani Bank Limited ----
+1) Create Account
+2) Deposit
+3) Withdraw
+4) Transfer
+5) Apply Loan
+6) Pay Loan
+7) Display All Accounts
+8) Display Account Details
+9) Display Loan Takers and Loan Status
+10) Make Loan Payment
+11) Exit
+Enter your choice: 11
+Thanks for being with us!
+
+Process returned 0 (0x0)   execution time : 194.141 s
+Press any key to continue.
